@@ -8,3 +8,6 @@ pip install FancyBrackets
 -matplotlib
 -numpy
 -scipy
+
+# examples
+see test.py for a TESS lightcurve with fancy brackets or getting_started.py for some explanations and an easy example.
